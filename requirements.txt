@@ -1,9 +1,11 @@
-langchain==0.3.26
-langchain-community==0.3.26
-langchain-openai==0.3.24
-langchain-pinecone==0.2.8
-pinecone==5.3.1
-sentence-transformers==4.1.0
-flask==3.1.1
-
-- e .
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.3.0
+langchain-pinecone>=0.2.0
+langchain-huggingface>=0.1.0
+pinecone-client>=6.0.0
+sentence-transformers>=3.0.0
+flask>=3.1.0
+python-dotenv
+pypdf
+werkzeug
